@@ -1,7 +1,7 @@
 <h1 align="center">Saludos 👋 Soy Javier Navarro</h1>
 <h3 align="center">Desarrollador Web Junior</h3>
 
-Estudiante de DAW, terminando mi segundo año. Me apasiona la tecnología y la creatividad. Busco oportunidades para contribuir a proyectos significativos y seguir aprendiendo de profesionales experimentados. ¡Siempre listo para nuevos desafíos!
+Estudiante de DAW, en prácticas. Me apasiona la tecnología y la creatividad. Busco oportunidades para contribuir a proyectos significativos y seguir aprendiendo de profesionales experimentados. ¡Siempre listo para nuevos desafíos!
 
 ⚡ Dato curioso **Tambiém soy Ilustrador y Tatuador**
 
