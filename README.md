@@ -1,9 +1,13 @@
 <h1 align="center">Saludos 👋 Soy Javier Navarro</h1>
 <h3 align="center">Desarrollador Web Junior</h3>
 
-Estudiante de DAW, en prácticas. Me apasiona la tecnología y la creatividad. Busco oportunidades para contribuir a proyectos significativos y seguir aprendiendo de profesionales experimentados. ¡Siempre listo para nuevos desafíos!
+Desarrollador web junior con experiencia tanto en Frontend como en Backend, lo que me permite adaptarme a distintas necesidades del proyecto.
 
-⚡ Dato curioso **Tambiém soy Ilustrador y Tatuador**
+Intento estar siempre al día con las últimas tendencias y novedades para estar alineado con las demandas del mercado.
+
+Entre mis mejores cualidades destacaría la capacidad de desenvolverme ante cualquier situación y generar buen ambiente de trabajo.
+
+⚡ Dato curioso **También soy Ilustrador y Tatuador**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
