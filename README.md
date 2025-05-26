@@ -1,4 +1,4 @@
-# 🎨 Javier Navarro | Del Arte al Código
+# ¡Hola!, soy Javier Navarro 
 
 <div align="center">
   
