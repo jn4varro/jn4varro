@@ -17,9 +17,8 @@
 ```javascript
 const javier = {
     ubicacion: "España 🇪🇸",
-    background: ["Ilustrador", "Tatuador", "Desarrollador Web"],
+    background: ["Desarrollador Web","Ilustrador", "Tatuador"],
     pasion: "Crear soluciones centradas en el usuario",
-    superpoder: "Combinar arte y tecnología",
     filosofia: "Los detalles marcan la diferencia"
 };
 ```
@@ -100,7 +99,7 @@ Hoy aplico todas estas habilidades en el desarrollo web, creando soluciones que 
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jn4varro&repo=portfolio&theme=tokyonight)](https://github.com/jn4varro/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jn4varro&repo=ecommerce-project&theme=tokyonight)](https://github.com/jn4varro/ecommerce-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jn4varro&repo=api-usuarios&theme=tokyonight)](https://github.com/jn4varro/api-usuarios)
 
 </div>
 
@@ -111,8 +110,8 @@ Hoy aplico todas estas habilidades en el desarrollo web, creando soluciones que 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-navarro-robles-9561aa208)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnavarro.artist@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jnavarro.netlify.app/)
 
 </div>
 
