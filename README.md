@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Fullstack;Ilustrador+%26+Tatuador;Creativo+Visual;Obsesionado+con+los+detalles)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desarrollador+Front;Desarrollador+Back;Desarrollador+Fullstack;Obsesionado+con+los+detalles)
   
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   
@@ -68,7 +68,7 @@ Hoy aplico todas estas habilidades en el desarrollo web, creando soluciones que 
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jn4varro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jn4varro&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jn4varro&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook"/>
   
 </div>
 
