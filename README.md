@@ -98,7 +98,7 @@ Hoy aplico todas estas habilidades en el desarrollo web, creando soluciones que 
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jn4varro&repo=portfolio&theme=tokyonight)](https://github.com/jn4varro/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jn4varro&repo=video-game-sales-eda&theme=tokyonight)](https://github.com/jn4varro/video-game-sales-eda)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jn4varro&repo=api-usuarios&theme=tokyonight)](https://github.com/jn4varro/api-usuarios)
 
 </div>
